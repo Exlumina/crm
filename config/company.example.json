@@ -1,0 +1,9 @@
+{
+  "name": "Company CRM",
+  "timezone": "UTC",
+  "loadCompanyIcons": false,
+  "boards": [
+    {"id":"sales","name":"Sales","stages":["To review","Contacted","In conversation","Won","Closed"]},
+    {"id":"partners","name":"Partners","stages":["To review","In conversation","Agreement in place","Active","Paused"]}
+  ]
+}
